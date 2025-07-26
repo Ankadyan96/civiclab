@@ -11,7 +11,6 @@ This project is a responsive **dataset listing interface** built with **Next.js 
   - Data Types
   - Time Periods (Auto-grouped)
   - Tags
-  - Licenses *(if available)*
   - Geographies
 - 📄 **Grid and List views** toggle
 - 📄 **Pagination**:
