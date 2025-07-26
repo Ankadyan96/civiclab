@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,55 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+📊 All Data Listing Page — CivicDataSpace
+This project is a responsive dataset listing interface built with Next.js (App Router) and Tailwind CSS, implementing filters, pagination, and search as per the Senior Frontend Engineer assignment by CivicDataSpace.
+
+🚀 Features
+🔍 Search datasets by title or keywords.
+
+🎛 Filter sidebar with support for:
+
+Sectors
+
+Data Types
+
+Time Periods (Auto-grouped)
+
+Tags
+
+Licenses (if available)
+
+Geographies
+
+📄 Grid and List views toggle
+
+📄 Pagination:
+
+Page numbers
+
+Rows per page selection
+
+First, Previous, Next, Last navigation buttons
+
+🖼 Organization logo, dataset metadata, and descriptions
+
+📱 Fully responsive (mobile-first design)
+
+⚙️ Integrated with live API: https://api.datakeep.civicdays.in/api/search/dataset/
+
+🏗 Tech Stack
+Framework: Next.js
+
+Styling: Tailwind CSS
+
+Icons: React Icons
+
+HTTP Client: Axios
+
+Loading State: Geist UI Spinner
+
+🧑‍💻 Developed by
+Ankit Kadyan
+Frontend Developer
+>>>>>>> 11e4ebf26a190dee4760641c171c72c5566046e0
